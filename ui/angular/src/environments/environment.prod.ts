@@ -18,5 +18,6 @@ under the License.
 */
 export const environment = {
   production: true,
-  BACKEND_SERVER: '',
+  // BACKEND_SERVER: '',
+  BACKEND_SERVER: 'http://hdspdev004:19565',
 };
